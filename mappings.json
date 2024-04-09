@@ -1,24 +1,12 @@
 [
   {
-    "url": "https://fortnitecentral.genxgames.gg/api/download/a8ab60c9e2fcba664b07010d9815ab87e641e766/Android/++Fortnite+Release-29.10-CL-32391220-Android_oo.usmap",
-    "fileName": "++Fortnite+Release-29.10-CL-32391220-Android_oo.usmap",
-    "hash": "a8ab60c9e2fcba664b07010d9815ab87e641e766",
-    "length": 1519525,
-    "uploaded": "2024-03-27T18:35:05Z",
+    "url": "https://fortnitecentral.genxgames.gg/api/download/346d88cf2e06a856e59d496f695ff227051babcd/Windows/++Fortnite+Release-29.20-CL-32716692-Windows_oo.usmap",
+    "fileName": "++Fortnite+Release-29.0-CL-32716692-Windows_oo.usmap",
+    "hash": "346d88cf2e06a856e59d496f695ff227051babcd",
+    "length": 1661299,
+    "uploaded": "2024-04-09T14:17:32Z",
     "meta": {
-      "version": "++Fortnite+Release-29.10-CL-32391220-Android",
-      "compressionMethod": "Oodle",
-      "platform": "Android"
-    }
-  },
-  {
-    "url": "https://fortnitecentral.genxgames.gg/api/download/3ba8f646237d8aae3ba27fd75faeef4519fc1cfc/Windows/++Fortnite+Release-29.10-CL-32391220-Windows_oo.usmap",
-    "fileName": "++Fortnite+Release-29.10-CL-32391220-Windows_oo.usmap",
-    "hash": "3ba8f646237d8aae3ba27fd75faeef4519fc1cfc",
-    "length": 1658381,
-    "uploaded": "2024-03-26T13:48:33Z",
-    "meta": {
-      "version": "++Fortnite+Release-29.10-CL-32391220-Windows",
+      "version": "++Fortnite+Release-29.20-CL-32716692-Windows",
       "compressionMethod": "Oodle",
       "platform": "Windows"
     }
