@@ -4,6 +4,7 @@ const { stringify } = require('querystring');
 const endpoint = "https://fortnitecentral.genxgames.gg/api/v1/mappings";
 let data = [];
 
+// Load data from mappings.js
 const loadData = () => {
   try {
     const rawData = fs.readFileSync('mappings.json');
@@ -31,8 +32,12 @@ const checkForUpdate = async () => {
   } catch (error) {
     console.error('Error:', error);
   }
-  setTimeout(checkForUpdate, 5000);
+  setTimeout(checkForUpdate, 5000); // Every 5 Sekunden checking for new mappings!
 };
 
 loadData();
 checkForUpdate();
+
+// Need help?
+// Dm me on Discord!
+// Username: layla.06
