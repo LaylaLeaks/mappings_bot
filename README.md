@@ -7,4 +7,4 @@
 ### Have fun!
 
 - You need support?
-- Join my Discord [Discord](https://discord.gg/3bZaj9RnEu) Server!
+- Join my [Discord](https://discord.gg/3bZaj9RnEu) Server!
