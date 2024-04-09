@@ -1,0 +1,19 @@
+{
+  "name": "mappings-bot",
+  "version": "1.0.0",
+  "description": "You can track new fortnite mappings.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "fortnite",
+    "bot",
+    "mappings"
+  ],
+  "author": "Layla_Leaks",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
